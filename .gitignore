@@ -1,0 +1,9 @@
+# Local state / cache
+.DS_Store
+*.swp
+*.swo
+*~
+
+plugin/
+spell/
+shada/
